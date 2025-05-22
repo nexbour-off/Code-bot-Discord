@@ -1,4 +1,4 @@
-/* code bot discord */
+/* Code bot discord for login */
 
 
 
@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 client.on("ready", () => {
-    console.log("bot opérationnel");
+    console.log("operational bot");
 });
 
 client.login("YOUR TOKEN");
