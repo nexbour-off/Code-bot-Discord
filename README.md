@@ -20,3 +20,25 @@ Your bot does not need to be logged in and you have to make it interact on your 
 
 # Language
 Java Script
+
+
+
+
+
+# En français
+
+
+# Utilisation de ce code requise
+*Visual Studio Code ou équivalents
+
+*node.js
+
+# Info
+Bonjour, ce code a l'utilité de permettre à votre
+Bot discord de pouvoir se connecter et d'apparaître en ligne. Pour gérer votre application (bot), rendez-vous sur Discord développeur pour pouvoir créer votre application et pouvoir la gérer.
+
+# Vous voulez obtenir le badge développeur Discord ?
+Votre bot n'a pas besoin d'être connecté et vous devez le faire interagir sur votre serveur. Un bot est d'office créé avec des commandes de base. Sous 24 heures sur le site (badge développeur Discord), pourrait le récupérer.
+
+# Langage
+Java Script 
